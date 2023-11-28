@@ -1,19 +1,14 @@
-အသုံးဝင်တဲ့မြန်မာ software များ
+I am Yannaing Lynn from Myanmar.
 ---
 
-### Eng-Myanmar Lite Dictionary for Windows
-### Version 0.4.9
-
-- **Description:** English to Myanmar / Myanmar to English Lite Dictionary for Windows OS.
-- **Download Windows:** [Download exe](https://github.com/yannainglynn/yannainglynn.github.io/raw/main/Eng-Myanmar%20Lite%20Dictionary%20Setup%200.4.9.exe)
-
-![Software Icon](engmyanmarlitedictionary.png)
-
+### Team Project 1 : Eng-Myanmar Lite Dictionary
 
 ## Skills
 
 - Programming Languages: Javascript, Kotlin
-- Web Technologies: Nodejs, Android, Reactjs
+- Web Technologies: Nodejs, Reactjs
+- Mobile Technologies: Android
+- Server Technologies: Docker, Linux
 
 
 Thanks for visiting! 😊
