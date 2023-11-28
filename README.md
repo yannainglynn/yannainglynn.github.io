@@ -1,14 +1,5 @@
-I am Yannaing Lynn from Myanmar.
+Being right is also being boring.
 ---
 
-### Team Project 1 : Eng-Myanmar Lite Dictionary
-
 ## Skills
-
-- Programming Languages: Javascript, Kotlin
-- Web Technologies: Nodejs, Reactjs
-- Mobile Technologies: Android
-- Server Technologies: Docker, Linux
-
-
-Thanks for visiting! 😊
+- အရင်ကတော့ ကုဒ်နည်းနည်းရေးတက်တက်တယ်။ ခုတော့ အကုန်ကူးထည့်တယ်။
