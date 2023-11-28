@@ -1,6 +1,4 @@
-Hello, I'm Yannaing Lynn.
-Want to develop useful softwares.
-
+အသုံးဝင်တဲ့မြန်မာ software များ
 ---
 
 ### Eng-Myanmar Lite Dictionary for Windows
