@@ -1,11 +1,13 @@
-Hello, I'm Yannaing Lynn
+Hello, I'm Yannaing Lynn.
+Want to develop useful softwares.
 
 ---
 
-### Eng-Myanmar Lite Dictionary
+### Eng-Myanmar Lite Dictionary for Windows
+### Version 0.4.9
 
-- **Description:** English to Myanmar / Myanmar to English Lite Dictionary.
-- **Download Windows:** [Download](https://github.com/your-username/project-1))
+- **Description:** English to Myanmar / Myanmar to English Lite Dictionary for Windows OS.
+- **Download Windows:** [Download exe](https://github.com/your-username/project-1)
 
 ![Software Icon](engmyanmarlitedictionary.png)
 
@@ -14,18 +16,6 @@ Hello, I'm Yannaing Lynn
 
 - Programming Languages: Javascript, Kotlin
 - Web Technologies: Nodejs, Android, Reactjs
-<!-- - Tools & Frameworks: [List of Tools and Frameworks]
 
----
-
-## Contact Me
-
-Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-username)
-- Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
-
---- -->
 
 Thanks for visiting! 😊
