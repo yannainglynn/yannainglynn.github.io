@@ -12,8 +12,8 @@ Hello, I'm Yannaing Lynn
 
 ## Skills
 
-- Programming Languages: [List of Languages]
-- Web Technologies: [List of Technologies]
+- Programming Languages: Javascript, Kotlin
+- Web Technologies: Nodejs, Android, Reactjs
 <!-- - Tools & Frameworks: [List of Tools and Frameworks]
 
 ---
